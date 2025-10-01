@@ -19,3 +19,4 @@ print(f"A média da turma é: {media}")
 print(f"A maior nota é: {max(notas)}")
 print(f"A menor nota é: {min(notas)}")
 print(f"A quantidade de alunos com nota acima da média é: {acimaM}")
+
